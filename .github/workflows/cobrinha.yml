@@ -15,6 +15,9 @@ on:
   # Permite que o workflow seja executado manualmente a partir da aba Actions no GitHub.
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 # Define os jobs que serão executados no workflow.
 jobs:
   # Nome do job. Pode ser qualquer nome descritivo.
