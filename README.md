@@ -116,3 +116,6 @@ Sinta-se à vontade para entrar em contacto, trocar ideias ou colaborar em proje
 <p align="center">
   <em>Este README é atualizado dinamicamente com GitHub Actions! ✨</em>
 </p>
+
+
+![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
