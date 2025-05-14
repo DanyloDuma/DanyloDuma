@@ -1,40 +1,11 @@
-# Olá, Mundo! 👋 Eu sou o Danylo Duma
+## Hello World! 👋 Eu sou o Danylo Duma
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-  <em>Explorador de Código & Futuro Mestre de Sistemas</em> 🚀
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=DanyloDuma&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyloDuma&layout=compact&langs_count=8&theme=blueberry&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_AQUI&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-
-<div align="center">
-  <h3>🤖 O Meu Laboratório Atual 🤖</h3>
-  <p><em>Neste momento, estou a mergulhar em... (Ex: Aprendendo React Native / Construindo um bot para Discord / Otimizando algoritmos em Java)</em></p>
-  </div>
-
 ---
-
-### 🎓 Foco: Técnico de Gestão e Programação de Sistemas Informáticos
-
-Como estudante desta área, o meu dia-a-dia gira em torno de transformar cafeína em código e solucionar quebra-cabeças lógicos. As minhas principais áreas de interesse e estudo incluem:
-
-* **Desenvolvimento de Software:** Criar aplicações funcionais e elegantes.
-    * `Java` (Intermediário) [cite: 24] - O meu pilar para projetos robustos.
-    * `Python` [cite: 24] - Para scripts rápidos e exploração de dados.
-    * `HTML`, `CSS`, `JavaScript` (Básico) [cite: 24] - Construindo a web, um pixel de cada vez.
-    * `PHP` (Básico) [cite: 24] - Entendendo o backend clássico.
-* **Administração de Sistemas:** Garantir que tudo corre como um relógio suíço.
-    * `Windows` (Intermediário)[cite: 24], `Linux` (Básico) [cite: 24] - À vontade nos dois mundos.
-    * `XAMPP`, `phpMyAdmin` [cite: 24] - Gerindo bases de dados e servidores locais.
-* **Redes e Protocolos:** A espinha dorsal da comunicação digital. [cite: 24]
-* **Arquitetura de Computadores & Hardware:** Perceber o que faz a magia acontecer por dentro. [cite: 24]
-
----
-
-### 🛠️ As Minhas Ferramentas de Eleição
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>&nbsp;
@@ -52,53 +23,6 @@ Como estudante desta área, o meu dia-a-dia gira em torno de transformar cafeín
 
 ---
 
-### 💡 Projetos em Destaque (Adicione os seus!)
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <h4 align="center">🚀 Nome do Projeto 1</h4>
-        <p align="center">
-          Uma breve e cativante descrição do seu projeto. Que problema resolve? Que tecnologias usou?
-          <br><br>
-          <a href="LINK_PARA_SEU_PROJETO_1" target="_blank">
-            <img src="https://img.shields.io/badge/Ver_Projeto-007ACC?style=for-the-badge&logo=github" alt="Ver Projeto 1"/>
-          </a>
-          </p>
-      </td>
-      <td width="50%" valign="top">
-        <h4 align="center">🌟 Nome do Projeto 2</h4>
-        <p align="center">
-          Outro projeto incrível! Destaque os seus desafios e aprendizados.
-          <br><br>
-          <a href="LINK_PARA_SEU_PROJETO_2" target="_blank">
-            <img src="https://img.shields.io/badge/Ver_Projeto-5cb85c?style=for-the-badge&logo=github" alt="Ver Projeto 2"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-    </table>
-</div>
-
----
-
-### 🌱 O Que Estou a Aprender / A Explorar
-
-* [Tecnologia/Framework X] - *Motivação ou objetivo*
-* [Conceito Y] - *Como se relaciona com os meus estudos*
-* [Ferramenta Z] - *Para otimizar o meu workflow*
-
----
-
-### ⚡ Fun Facts & Conteúdo Dinâmico (Ideias)
-
-* **Frase Inspiradora do Dia (via Action):**
-    *"{RANDOM_QUOTE} - {QUOTE_AUTHOR}"*
--->
-
----
-
 ### 📫 Vamos Conectar!
 
 Sinta-se à vontade para entrar em contacto, trocar ideias ou colaborar em projetos!
@@ -110,12 +34,6 @@ Sinta-se à vontade para entrar em contacto, trocar ideias ou colaborar em proje
   <a href="https://www.linkedin.com/in/danylo-duma-a6b0a5338/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  </p>
-
----
-<p align="center">
-  <em>Este README é atualizado dinamicamente com GitHub Actions! ✨</em>
 </p>
-
 
 ![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake-dark.svg)
