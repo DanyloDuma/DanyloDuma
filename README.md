@@ -118,4 +118,4 @@ Sinta-se à vontade para entrar em contacto, trocar ideias ou colaborar em proje
 </p>
 
 
-![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake-dark.svg)
