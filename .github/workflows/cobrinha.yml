@@ -16,7 +16,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write-all
+  contents: write
 
 # Define os jobs que serão executados no workflow.
 jobs:
